@@ -1,2 +1,2 @@
 # Portfolio
-A startup portfolio just for the fun of it.
+A startup portfolio, to be built brick by brick while I move forward.
